@@ -1,4 +1,4 @@
-# Dockerizing a WordPress site
+# Dockerizing A WordPress Site
 
 This project demonstrates how to set up a WordPress site using Docker and Docker Compose. It provides a complete development environment with a MySQL database, enabling easy deployment and management of the WordPress application.
 
